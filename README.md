@@ -13,7 +13,7 @@
   <ul class="space-y-3 text-lg">
     <li><strong>📍 Location:</strong> Pampanga, Philippines</li>
     <li><strong>💻 Code Stack:</strong> HTML, CSS, PHP, Python, C#</li>
-    <li><strong>🚀 Current Focus:</strong> Building scalable and user-friendly interfaces</li>
+    <li><strong>🚀 Current Focus:</strong> Building scalable and user-friendly interfaces. Learning basic backend codes and flows.</li>
     <li><strong>🎯 Career Path:</strong> Aspiring frontend developer & designer focused on usability and intuitive systems — God willing!</li>
   </ul>
 </div>
