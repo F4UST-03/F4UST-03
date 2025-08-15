@@ -10,6 +10,7 @@
 
 <div class="max-w-xl mx-auto mt-10 p-6 bg-gradient-to-br from-indigo-600 via-purple-600 to-pink-500 text-white rounded-xl shadow-lg font-sans">
   <ul class="space-y-3 text-lg">
+    <li><strong>🚀 Fun Fact:</strong> I love psychology and performing arts. I am also a cat person.</li>
     <li><strong>🚀 Current Focus:</strong> Building scalable and user-friendly interfaces. Learning basic backend codes and flows.</li>
     <li><strong>🎯 Career Path:</strong> Aspiring frontend developer & designer focused on usability and intuitive systems — God willing!</li>
   </ul>
